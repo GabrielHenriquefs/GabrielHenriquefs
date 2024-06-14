@@ -4,10 +4,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-fontoura-sampaio-82770624b/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbpo._/)
 
 
-
-!Gabriel Henrique GitHub Status
-
-
 Tecnologias que uso no meu dia a dia
 <div style='display :inline_block'><br/>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
