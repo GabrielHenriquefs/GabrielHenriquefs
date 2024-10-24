@@ -15,4 +15,4 @@ Tecnologias que uso no meu dia a dia
 
 </div><br/>
 
-Sou um entusiasta no mundo da tecnologia e em seu uso para facilitar o cotidiano. Atualmente, atuo como Desenvolvedor Web. Buscando me aprimorar na área de Desenvolvimento Web/Software.
+Sou um entusiasta no mundo da tecnologia e em seu uso para facilitar o cotidiano. Atualmente, atuo como Desenvolvedor Web. Buscando me aprimorar nas áreas de Desenvolvimento e Data Science para conseguir entregar soluções mais completas e eficientes.
