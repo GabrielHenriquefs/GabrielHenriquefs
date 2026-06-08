@@ -52,7 +52,3 @@ Busco construir soluções que conectem sistemas, reduzam tarefas manuais e torn
 * Agentes de atendimento
 * APIs e banco de dados
 * Desenvolvimento de soluções internas
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieelFontoura\&layout=compact\&theme=synthwave)
