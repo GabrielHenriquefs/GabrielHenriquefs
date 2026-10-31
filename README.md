@@ -1,48 +1,37 @@
-<h1>Olá! Eu sou o Gabriel Henrique 👋</h1>
+# Gabriel Henrique Fontoura Sampaio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-fontoura-sampaio-82770624b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/gbpo._/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GabrieelFontoura)
+**Dados e automação | Python, SQL, n8n, APIs REST e Power BI**
 
----
+Bacharel em Ciência da Computação pela UniCarioca (2021–2026). Atuo como Analista Júnior de Tecnologia da Informação na 37miles, desenvolvendo automações, integrações entre sistemas e soluções para organizar e visualizar dados.
 
-## Tecnologias que uso no meu dia a dia
+[LinkedIn](https://www.linkedin.com/in/gabriefontoura/) · [Contato profissional](mailto:gabrielfontourasampaio@gmail.com)
 
-<div style="display: inline_block"><br/>
+## O que faço
 
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img align="center" alt="APIs REST" src="https://img.shields.io/badge/APIs_REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+- **Automação e integrações:** fluxos com Python, n8n e JavaScript, conexão de APIs REST e participação em migração interna de CRM.
+- **Dados e banco de dados:** consultas SQL, procedures, validação de informações e integração de diferentes fontes.
+- **Dashboards:** desenvolvimento e manutenção de painéis com Streamlit e Pandas; experiência anterior com Power BI na ANP.
+- **IA aplicada:** prompts e modelos de IA em automações, triagem de dados e apoio a processos internos.
 
-</div><br/>
+Na ANP, trabalhei com dados de produção de petróleo, atualização de relatórios e painéis em Power BI. Também atuei como Desenvolvedor Web / Product Owner na Carioca Júnior, com WordPress, HTML, CSS, backlog e sprints.
 
----
+## Tecnologias
 
-## Sobre mim
+| Área | Ferramentas |
+| --- | --- |
+| Linguagens | Python, SQL, JavaScript, HTML e CSS |
+| Dados e BI | Power BI, Pandas, Streamlit, ETL e Excel |
+| Automação | n8n, Power Automate e APIs REST |
+| Ferramentas | Git, GitHub, Supabase e Lovable |
+| Organização do trabalho | Scrum e gestão de backlog |
 
-Sou Bacharel em Ciência da Computação e atuo como Analista Júnior de Tecnologia da Informação, com foco em automação de processos, dados, integração de sistemas e Inteligência Artificial aplicada a processos internos.
+## Projetos públicos
 
-Atualmente, trabalho com Python, n8n, APIs REST, banco de dados, dashboards e criação de agentes inteligentes para diferentes funções, incluindo agentes de atendimento. Tenho experiência em automações multissetoriais, integração de dados de diferentes fontes e projetos de migração de sistemas de CRM/atendimento.
+Estes repositórios registram estudos e prática de programação:
 
-Busco construir soluções que conectem sistemas, reduzam tarefas manuais e tornem processos mais eficientes por meio de tecnologia, dados e automação.
+- [Análise de vendas de videogames](https://github.com/GabrielHenriquefs/Extra-o-de-dados-Video-Games): exploração de uma base CSV em Jupyter Notebook, com Pandas, Matplotlib e Seaborn.
+- [Automação de cadastro com Python](https://github.com/GabrielHenriquefs/Automa-o-Pyautogui): exercício de preenchimento de formulários a partir de uma base de produtos, usando Pandas e PyAutoGUI.
 
----
+## Oportunidades
 
-## Áreas de interesse
-
-* Automação de processos
-* Integração de sistemas
-* Análise de dados
-* Business Intelligence
-* Inteligência Artificial aplicada
-* Agentes de atendimento
-* APIs e banco de dados
-* Desenvolvimento de soluções internas
+Tenho interesse em oportunidades em **dados/BI, automação, integrações e desenvolvimento Python**, em trabalho remoto ou híbrido no Rio de Janeiro e região metropolitana.
