@@ -4,7 +4,7 @@
 
 Graduando em Ciência da Computação pela UniCarioca (2021–2026), com conclusão prevista para novembro de 2026. Atuo como Analista Júnior de Tecnologia da Informação na 37miles, desenvolvendo automações, integrações entre sistemas e soluções para organizar e visualizar dados.
 
-[LinkedIn](https://www.linkedin.com/in/gabriefontoura/) · [Contato profissional](mailto:gabrielfontourasampaio@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriefontoura/) · [Contato profissional](mailto:gabrielhfontoura@gmail.com)
 
 ## O que faço
 
